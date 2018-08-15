@@ -1,0 +1,12 @@
+#chessboard{
+
+	width:90%; height: 75%;
+	margin-left: 5%; margin-top: 5%;
+	background-color: white;
+}
+
+.slot{ height: 10%; float: left; border:1px solid #ecf0f1; box-sizing: border-box; }
+
+.slot1, .slot3{ background-color: #2ecc71; }
+.slot2{ background-color: #27ae60; }
+.slot4{ background-color: red;  }
